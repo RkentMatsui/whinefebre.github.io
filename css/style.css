@@ -1301,5 +1301,13 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0;
 }
-
+.mmh {
+  display: flex;
+  flex-direction: row;
+}
+.imagex {
+  width: 45%;
+  text-align: center;
+  padding: 10px;
+}
 /*# sourceMappingURL=style.css.map */
